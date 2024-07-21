@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "wooJu";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/wooJu/wooJu.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/wooJu/wooJu.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/wooJu/wooJu.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/wooJu/wooJu.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/wooJu/wooJu.ttf") format("truetype");
+    font-display: swap;
+} 
+.wooJu {
+    font-family: "wooJu";
+}
